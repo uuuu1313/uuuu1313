@@ -14,8 +14,6 @@ skills ⭐ <br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/spring Security-6DB33F?style=plastic&logo=spring Security&logoColor=white"/></a>
 
 <br>
-<br>
-<br>
 
 status 🌟<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuuu1313&&show_icons=true&theme=vue)
