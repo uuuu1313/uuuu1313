@@ -12,7 +12,7 @@ language 🛠 <br>
 
 skills ⭐<br>
 
-<a><img src="https://img.shields.io/badge/fastapio-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <br>
